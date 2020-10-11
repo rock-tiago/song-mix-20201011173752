@@ -1,0 +1,8 @@
+{
+  "name": "SongMix",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "b88cbac0"
+}
